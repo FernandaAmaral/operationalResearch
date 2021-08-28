@@ -28,7 +28,7 @@ pip install -r requirements.txt
 Run the python script "solver.py" inside each problem folder
 ```
 cd <problem_name>
-python python.py
+python solver.py
 ```
 
 Then, paste the example data inside the "test_data.txt" file or insert the data in terminal manually
