@@ -1,6 +1,6 @@
 # Operational Research
 
-Activities of the Operational Research Discipline of the Master's Degree in Applied Computing 
+Weekly activities of the Operational Research Discipline of the Master's Degree in Applied Computing 
 
 > Department of Computer Science - University of Brasília
 
