@@ -4,7 +4,6 @@ import numpy as np
 
 df = pd.read_csv('RA.csv')
 n = len(df)
-print(n)
 distances = np.zeros((n, n))
 
 lat = df['lat'].to_numpy()
